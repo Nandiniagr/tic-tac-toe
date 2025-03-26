@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nandiniagr/tic-tac-toe.git/static/css/main.16687bd5.css",
-    "main.js": "/Nandiniagr/tic-tac-toe.git/static/js/main.3e355332.js",
-    "static/js/453.e036e8b5.chunk.js": "/Nandiniagr/tic-tac-toe.git/static/js/453.e036e8b5.chunk.js",
-    "index.html": "/Nandiniagr/tic-tac-toe.git/index.html",
-    "main.16687bd5.css.map": "/Nandiniagr/tic-tac-toe.git/static/css/main.16687bd5.css.map",
-    "main.3e355332.js.map": "/Nandiniagr/tic-tac-toe.git/static/js/main.3e355332.js.map",
-    "453.e036e8b5.chunk.js.map": "/Nandiniagr/tic-tac-toe.git/static/js/453.e036e8b5.chunk.js.map"
+    "main.css": "/tic-tac-toe-game/static/css/main.16687bd5.css",
+    "main.js": "/tic-tac-toe-game/static/js/main.3c5804b1.js",
+    "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe-game/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/tic-tac-toe-game/index.html",
+    "main.16687bd5.css.map": "/tic-tac-toe-game/static/css/main.16687bd5.css.map",
+    "main.3c5804b1.js.map": "/tic-tac-toe-game/static/js/main.3c5804b1.js.map",
+    "453.e036e8b5.chunk.js.map": "/tic-tac-toe-game/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16687bd5.css",
-    "static/js/main.3e355332.js"
+    "static/js/main.3c5804b1.js"
   ]
 }
